@@ -1,5 +1,7 @@
 ## pynoddy
 
+This fork aims to resolve any bugs I encounter while using pyNoddy to create synthetic geophysics data. I also aim to develop some neat workflows for making synthetic geophysics data using noddy.
+
 -------
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Important information: Mark Jessell is currently cleaning the Noddy core library in order to **adjust our code to a more permissive license** - more information, soon!
