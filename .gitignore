@@ -98,3 +98,14 @@ docs/notebooks/1-Simulation.ipynb
 faultmodel.grv
 faultmodel.his
 faultmodel.mag
+
+# LSgeo Fork
+noddyBatchProgress.txt
+
+.eggs/README.txt
+atlas/fold_thrust.his
+output/
+*.g**
+*.mag
+*.his
+.gitignore
