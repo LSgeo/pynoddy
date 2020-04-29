@@ -580,9 +580,11 @@ class NoddyHistory(object):
         self.header_lines = """#Filename = """ + self.filename + """ 
 #Date Saved = """ + time_string + """
 FileType = 111
-Version = 7.11
+Version = 7.03 
 
 """
+
+# Version should be 7.11, but 7.03 is used here for compatability.
 
     @staticmethod
     def _create_stratigraphy(event_options):
